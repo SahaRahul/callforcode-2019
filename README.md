@@ -4,7 +4,7 @@
 
 We researched on multiple use cases that will address problem of multiple natural disasters and to focus a particular disaster management area.
 When we brainstorm to identify some area where we can contribute in the various phases of Disaster Management - forecast/prediction, preparedness, evacuation, relief aid distribution and reconstruction. We discover this problem.
-Latest technology with satellite and GIS system are working significantly well in forecasting and prediction. Based on our research and study we have identified that human being and animals are massively impacted during the time of evacuation and timely supply of relief materials like water, food, clothes and medicines are badly impacted. Communication and known routes are disrupted and easily reachable routes turns distinct. Even we can integrate with last time owl project to overcome the hurdle of communication.
+Latest technology with satellite and GIS system are working significantly well in forecasting and prediction. Based on our research and study we have identified that human being and animals are massively impacted during the time of evacuation and timely supply of relief materials like water, food, clothes and medicines are badly impacted. Even many vehicles get damaged with flood water or lava from volcano or forest fire. Communication and known routes are disrupted and easily reachable routes turns distinct. Even we can integrate with last time owl project to overcome the hurdle of communication.
 
 
 
